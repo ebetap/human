@@ -1,4 +1,5 @@
 ```javascript
+
 class Human {
 	static tagline = ['Pray','Work','Learn','Play','Party','Grateful','Repeat'];
 
@@ -17,4 +18,5 @@ class Human {
 const beta = new Human('Beta Priyoko');
 console.log('Name:', beta.getName());
 console.log('Tagline:', beta.tagline);
+
 ```
