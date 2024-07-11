@@ -1,5 +1,5 @@
 class Human {
-	static tagline = ['Pray','Work','Learn','Play','Party','Grateful','Repeat'];
+	static TAGLINE = ['Pray','Work','Learn','Play','Party','Grateful','Repeat'];
 
 	constructor(name) {
 		this._name  =  name;
