@@ -14,5 +14,5 @@ class Human {
 };
 
 const beta = new Human('Beta Priyoko');
-console.log('Name:', beta.getName());
-console.log('Tagline:', beta.tagline);
+console.log('Name : ', beta.getName());
+console.log('Tagline : ', beta.tagline);
