@@ -1,3 +1,4 @@
+```javascript
 class God {
 	constructor(name) {
 		this._name  =  name;
@@ -22,3 +23,4 @@ console.log('Hello World!');
 const beta = new Human('Beta Priyoko');
 console.log('My Name:', beta.getName());
 console.log('Tagline:', Human.tagline);
+```
